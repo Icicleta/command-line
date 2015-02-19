@@ -1,3 +1,4 @@
-mv command move files from a directory to another one, also can be used to change the name of a file.
-cp make a copy of a file, you can name it at the same time
-grep allow you make a selection depending on its arguments, within a text, file, directory...
+mv command moves files from a directory to another one, also can be used to change the name of a file.
+cp makes a copy of a file, you can name it at the same time
+grep allows you make a selection depending on its arguments, within a text, file, directory...
+wc counts words, lines, letters of anything and output the number
