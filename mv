@@ -2,3 +2,4 @@ mv command moves files from a directory to another one, also can be used to chan
 cp makes a copy of a file, you can name it at the same time
 grep allows you make a selection depending on its arguments, within a text, file, directory...
 wc counts words, lines, letters of anything and output the number
+ps displays the processes running on the computer
